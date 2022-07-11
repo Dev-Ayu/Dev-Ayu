@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayushya.
+- 👋 Hi, I’m Ayushya.
 - 👀 I’m interested in Web Development and Designing.
 - 🌱 I’m currently Working on Websites.
 - 💞️ I’m looking to collaborate on Website Topics.
